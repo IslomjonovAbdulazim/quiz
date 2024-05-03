@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594062670320",
+    "project_id": "quiz-7350a",
+    "storage_bucket": "quiz-7350a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594062670320:android:28813dc7ad502779954535",
+        "android_client_info": {
+          "package_name": "com.azimislom.the_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRtQczlnp8PepH5bq1eQOh6uYndP2_CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
